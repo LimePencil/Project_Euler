@@ -1,3 +1,4 @@
+# Finished on 2020.07.17
 largest = 0
 for i in reversed(range(100,1000)):
     for j in reversed(range(100,1000)):
